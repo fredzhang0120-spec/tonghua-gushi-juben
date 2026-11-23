@@ -2,7 +2,7 @@
 
 Gemini-阿漫领稿完成，R2 待文本审读。
 
-1. [英文底稿](01_英文底稿.txt)。格林兄弟，Margaret Hunt 英译，Grimm’s Household Tales 第一卷，第 1 篇，印页 1–4（已对照全文完成全译，纯文本原档待本地终端一键拉取归档）。[英文原篇](https://en.wikisource.org/wiki/Grimm%27s_Household_Tales,_Volume_1/The_Frog-King,_or_Iron_Henry) · [1857 年德文定本](https://de.wikisource.org/wiki/Der_Froschk%C3%B6nig_oder_der_eiserne_Heinrich_(1857))
+1. [英文底稿](01_英文底稿.txt)。格林兄弟，Margaret Hunt 英译，Grimm’s Household Tales 第一卷，第 1 篇，印页 1–4。[英文原篇](https://en.wikisource.org/wiki/Grimm%27s_Household_Tales,_Volume_1/The_Frog-King,_or_Iron_Henry) · [1857 年德文定本](https://de.wikisource.org/wiki/Der_Froschk%C3%B6nig_oder_der_eiserne_Heinrich_(1857))
 2. [逐篇项目全译](02_项目全译.md)
 3. [逐页绘本 R2](03_绘本讲述稿_R2.md)
 4. [中文发行对照与改编说明](04_中文发行译本对照.md)
