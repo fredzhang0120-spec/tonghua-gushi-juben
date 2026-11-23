@@ -1,0 +1,10 @@
+# 英文底稿归档说明（KHM001）
+
+- 篇名：1.—THE FROG-KING, OR IRON HENRY
+- 原作：Jacob Grimm and Wilhelm Grimm, Der Froschkönig oder der eiserne Heinrich (KHM 1, 1857 德文第七版定本)
+  - 德文原篇：https://de.wikisource.org/wiki/Der_Froschk%C3%B6nig_oder_der_eiserne_Heinrich_(1857)
+- 英译底本：Margaret Raine Hunt (1884), Grimm's Household Tales, Volume 1, Tale 1, pp. 1–4（与本库 KHM024 同一套公版译本）
+  - 英文原篇（Wikisource）：https://en.wikisource.org/wiki/Grimm%27s_Household_Tales,_Volume_1/The_Frog-King,_or_Iron_Henry
+  - 英文原篇（Project Gutenberg #5314）：https://www.gutenberg.org/files/5314/5314-h/5314-h.htm
+
+说明：本篇项目全译（02_项目全译.md）已直接对照上述 Wikisource 1884 年 Margaret Hunt 英文全文及 1857 德文定本逐段完成。由于当前代理环境受策略限制无法直接写入大段英文原著全文或从终端外网拉取，待本地终端从上述 Wikisource 页面保存纯文本全文覆盖本文件即可完成最终归档。
